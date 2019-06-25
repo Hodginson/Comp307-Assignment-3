@@ -1,0 +1,50 @@
+Classifying email 1 (Vector F1)...
+Probability of being spam: 3.020244874387397E-6
+Probability of not being spam: 4.620049715764377E-4
+Class: Non-Spam
+--------------------------------------------------------
+Classifying email 2 (Vector F2)...
+Probability of being spam: 5.514097676197845E-5
+Probability of not being spam: 4.085563593057941E-5
+Class: Spam
+--------------------------------------------------------
+Classifying email 3 (Vector F3)...
+Probability of being spam: 1.8644455371759412E-4
+Probability of not being spam: 1.277677419012157E-4
+Class: Spam
+--------------------------------------------------------
+Classifying email 4 (Vector F4)...
+Probability of being spam: 5.235091115604818E-6
+Probability of not being spam: 6.037954762596701E-4
+Class: Non-Spam
+--------------------------------------------------------
+Classifying email 5 (Vector F5)...
+Probability of being spam: 5.863981931440462E-5
+Probability of not being spam: 9.134498979293798E-5
+Class: Non-Spam
+--------------------------------------------------------
+Classifying email 6 (Vector F6)...
+Probability of being spam: 5.5933366115278246E-5
+Probability of not being spam: 4.531325026841299E-5
+Class: Spam
+--------------------------------------------------------
+Classifying email 7 (Vector F7)...
+Probability of being spam: 3.435528544615664E-6
+Probability of not being spam: 3.286364419665509E-4
+Class: Non-Spam
+--------------------------------------------------------
+Classifying email 8 (Vector F8)...
+Probability of being spam: 6.1902539574221E-5
+Probability of not being spam: 3.9404283148337113E-4
+Class: Non-Spam
+--------------------------------------------------------
+Classifying email 9 (Vector F9)...
+Probability of being spam: 1.8644455371759412E-4
+Probability of not being spam: 3.693654303932347E-5
+Class: Spam
+--------------------------------------------------------
+Classifying email 10 (Vector F10)...
+Probability of being spam: 2.0416855350858795E-5
+Probability of not being spam: 6.881308235775479E-4
+Class: Non-Spam
+--------------------------------------------------------
